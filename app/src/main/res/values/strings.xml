@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="edit_message">Enter a number</string>
+    <string name="button_convert">Convert</string>
+    <string-array name="to_change">
+        <item>Bin</item>
+        <item>Hex</item>
+        <item>Dec</item>
+        <item>Oct</item>
+    </string-array>
+</resources>
