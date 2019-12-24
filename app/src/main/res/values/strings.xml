@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
+    <string name="app_name">Number Converter</string>
     <string name="edit_message">Enter a number</string>
     <string name="button_convert">Convert</string>
     <string-array name="to_change">
