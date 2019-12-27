@@ -8,12 +8,14 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="208dp"
-        android:layout_height="279dp"
-        android:layout_marginTop="56dp"
+        android:layout_width="252dp"
+        android:layout_height="341dp"
+        android:layout_marginTop="96dp"
         android:text="TextView"
+        android:textSize="24sp"
+        app:fontFamily="sans-serif-medium"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.672"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
